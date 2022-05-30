@@ -3,4 +3,4 @@
   tasks:
     - name: Running Wordpress-MySQL Role
       include_role:
-        name: wordpress_mysql
+        name: WordPress_Ansible_Role
