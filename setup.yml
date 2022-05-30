@@ -1,6 +1,6 @@
 - hosts: localhost
   gather_facts: no
   tasks:
-    - name: Running Wordpress-MySQL Role
+    - name: Running Role
       include_role:
         name: WordPress_Ansible_Role
