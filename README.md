@@ -27,12 +27,8 @@ Including an example of how to use your role (for instance, with variables passe
       roles:
          - { role: username.rolename, x: 42 }
 
-License
--------
+**RUN your Ansible Playbook**
+-------------------------------
+ use below commands to run your ansible playbook.
 
-BSD
-
-Author Information
-------------------
-
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+ansible-playbook setup.yml 
